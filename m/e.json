@@ -6,7 +6,8 @@
         "social": {
             "twitter_handle": "AlessioDevPool",
             "telegram_handle": "cardano_dev_pool",
-            "github_handle": "DevStakePool"
+            "github_handle": "DevStakePool",
+	    "youtube_handle": "DEVStakePoolCardano"
         },
         "about": {
             "me": "Hi, my name is Alessio Di Fazio and I'm a single stake pool owner and software architect with 10+ years of experience.",
