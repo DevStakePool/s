@@ -10,8 +10,8 @@
 	    "youtube_handle": "@DEVStakePoolCardano"
         },
         "about": {
-            "me": "Hi, my name is Alessio Di Fazio and I'm a single stake pool owner and software architect with 10+ years of experience.",
-            "server": "High performance VPSs hosted in the gaming data center in Milan/Italy. Both Block producer and Relay have 16 GB RAM, 6 CPUs and 100 MBit/s redundant network."
+            "me": "Hi, my name is Alessio and I'm a single stake pool owner and software architect with 10+ years of experience.",
+            "server": "High performance mix of VPSs and bare metal hosted Italy and France. Both Block producer and Relays have 24 GB RAM, 6 CPUs and 200 MBit/s redundant network."
         }
     },
     "my-pool-ids": {
